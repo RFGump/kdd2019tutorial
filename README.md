@@ -21,4 +21,4 @@ docker pull yueguoguo/reco_cpu
 ```
 
 ## Option 3 - Azure Data Science Virtual Machine (DSVM)
-The setup process on an Azure Data Science Virtual Machine is the same as that for a local environment. Details of HOW-TO can be therefore found [here](https://github.com/microsoft/recommenders/blob/master/SETUP.md).
+The setup process on an [Azure Data Science Virtual Machine](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/) is the same as that for a local environment. Details of HOW-TO can be therefore found [here](https://github.com/microsoft/recommenders/blob/master/SETUP.md).
