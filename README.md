@@ -1,12 +1,14 @@
 # Environment set up guideline
 
-Details of setting up Microsoft/Recommenders can be found in [the original repository](https://github.com/Microsoft/Recommenders)
+The tutorial environment can be set up by three different options
 
 ## Option 1 - Local machine 
-It can be found in the the [SETUP.md](https://github.com/microsoft/recommenders/blob/master/SETUP.md) file of the Microsoft/Recommenders repository.
+The code examples and notebooks from Microsoft/Recommenders repository can be run on a local machine with Linux, Windows, or MacOS system. Details about about how to set up environment on a local machine can be found in the the [SETUP.md](https://github.com/microsoft/recommenders/blob/master/SETUP.md) file of the Microsoft/Recommenders repository.
 
 ## Option 2 - Docker
-Instructions for building a Docker image with the Docker file provided in the repository can be found [here](https://github.com/microsoft/recommenders/blob/le_docker/docker/README.md). Note, there are pre-built images available on Dockerhub for use. 
+Alternative to running notebooks on a local environment, Docker support is also provided. Instructions for building a Docker image with the Docker file provided in the repository can be found [here](https://github.com/microsoft/recommenders/blob/le_docker/docker/README.md). 
+
+There are pre-built images available on Dockerhub for use. 
 
 |Environment|Image name|
 |------------|-----------|
