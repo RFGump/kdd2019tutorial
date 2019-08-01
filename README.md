@@ -2,11 +2,9 @@
 
 The tutorial environment can be set up by three different options
 
-Prerequisites for each of them can be found as below
-
 |Option|Prerequisite|Pros|Cons|
 |------------|-------------|-----------|--------------|
-|Local machine (Linux/Windows/MacOS)|Standalone single-node Spark/Miniconda/Jupyter notebook|Users can use tools they are familiar with in the local machine|Limited by the environment (e.g., OS) and hardware of the local machine (e.g., GPU)|
+|Local machine|Standalone single-node Spark/Miniconda/Jupyter notebook|Users can use tools they are familiar with in the local machine|Limited by the environment (e.g., OS) and hardware of the local machine (e.g., GPU)|
 |Docker container|Docker|Very portable and environment-independent|Require Docker to be pre-installed|
 |Cloud (Azure)|Azure subscription|High flexibility to run notebooks on heterogeneous environment and computing targets|Starts with free credits (200 USD) but will be charged after the credits are used up|
 
