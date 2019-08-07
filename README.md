@@ -9,12 +9,12 @@ The tutorial environment can be set up by three different options
 |**Docker container**|**Docker**|**Portable and environment-independent**|**Require Docker to be pre-installed**|
 
 ## Option 1 - Local machine 
-The code examples and notebooks from Microsoft/Recommenders repository can be run on a local machine with Linux, Windows, or MacOS system. Details about about how to set up environment on a local machine can be found in the the [SETUP.md](https://github.com/microsoft/recommenders/blob/master/SETUP.md) file of the Microsoft/Recommenders repository.
+The code examples and notebooks from Microsoft/Recommenders repository can be run on a local machine with Linux, Windows, or MacOS system. Details about how to set up environment on a local machine can be found in the the [SETUP.md](https://github.com/microsoft/recommenders/blob/master/SETUP.md) file of the Microsoft/Recommenders repository.
 
 **NOTE** in the tutorial, we have notebooks that run in a Spark environment. If the local environment without Spark is used, the notebooks cannot be successfully run. 
 
 ## Option 2 - Azure Data Science Virtual Machine (DSVM)
-The setup process on an [Azure Data Science Virtual Machine](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/) is the same as that for a local environment. Details of HOW-TO can be therefore found [here](https://github.com/microsoft/recommenders/blob/master/SETUP.md).
+The setup process on an [Azure Data Science Virtual Machine](https://azure.microsoft.com/en-us/services/virtual-machines/data-science-virtual-machines/) is the same as that for a local environment. Details can be found [here](https://github.com/microsoft/recommenders/blob/master/SETUP.md).
 
 ## Option 3 - Docker
 Alternative to running notebooks on a local environment, Docker support is also provided. Instructions for building a Docker image with the Docker file provided in the repository can be found [here](https://github.com/microsoft/recommenders/blob/le_docker/docker/README.md). 
