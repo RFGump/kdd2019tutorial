@@ -35,7 +35,7 @@ Building Docker image in time may take some time. There are pre-built images ava
 |GPU|yueguoguo/reco_gpu|
 |Full|yueguoguo/reco_full|
 
-In the tutorial, we use the PySpark one where the single-node Python and PySpark codes can run. Assuming Docker has been installed, in either the Linux/MacOS terminal or Windows PowerShell, commands to run for practising the notebooks are as below:
+In the tutorial, we use the PySpark one where the single-node Python and PySpark codes can run. To use these images, one needs to [create a Docker Hub account](https://hub.docker.com/signup). Assuming Docker has been installed, in either the Linux/MacOS terminal or Windows PowerShell, commands to run for practising the notebooks are as below:
 
 1. Pull the image
 ```
