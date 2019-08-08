@@ -61,6 +61,7 @@ One should see the follows, which indicates that the container is running succes
 A few commands that help use Docker 
 * Check the images available in local environment, `docker images`
 * Check the running containers, `docker ps`
+* Stop a container, `docker stop <container_id>`
 * Remove a container, `docker rm <container_id>`
 * Remove an image, `docker rmi <image_id>`
 * Remove all containers, `docker rm $(docker ps -a -q)`
