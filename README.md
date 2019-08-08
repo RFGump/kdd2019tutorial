@@ -6,7 +6,7 @@ Password: Eagle907
 
 # Environment set up guideline
 
-The tutorial environment can be set up by three different options
+The tutorial environment can be set up by three different options. In the tutorial, we recommend using Docker for the hands-on.
 
 |Option|Prerequisite|Pros|Cons|
 |------------|-------------|-----------|--------------|
