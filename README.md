@@ -1,4 +1,4 @@
-# WiFi connection
+# Wi-Fi connection
 
 Network: Tubughnenq5HandsonTutorial 
 
