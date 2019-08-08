@@ -1,3 +1,8 @@
+# WiFi connection
+
+Network: Tubughnenq5HandsonTutorial 
+Password: Eagle907
+
 # Environment set up guideline
 
 The tutorial environment can be set up by three different options
